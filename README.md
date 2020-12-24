@@ -16,7 +16,7 @@
 
 - 工具开发思路分析和编写简单的demo
 
-  [dir.py](https://github.com/zzggtt/Python-Tools/blob/main/dir/redme.md)
+  [url.py](https://github.com/zzggtt/Python-Tools/blob/main/url/redme.md)
 
 
 
