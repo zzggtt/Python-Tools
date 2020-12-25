@@ -2,7 +2,7 @@
 
 设计思路很简单，只为了锻炼一下python：
 
-![image-20201225150418576](C:\Users\80785\AppData\Roaming\Typora\typora-user-images\image-20201225150418576.png)
+![1.png](https://github.com/zzggtt/Python-Tools/blob/main/dir/1.png)
 
 
 
